@@ -1,6 +1,6 @@
-
 UnetLoopDetection
 
+![Alt Text](data/Model.png)
 Repository structure
 
 - src/unetloopdetection: reusable python utilities (data, model, train, eval)
